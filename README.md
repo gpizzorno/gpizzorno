@@ -1,12 +1,15 @@
-# 👋 Hi, I’m Gabe Pizzorno
+# Gabe Pizzorno
 
-I work at the intersection of **AI, machine learning, NLP, and history**, developing computational methods to extract, model, and analyze cultural and historical data. 
+I build systems that turn messy, unstructured source material into machine-actionable data—entity
+resolution, knowledge graphs, ontologies, information extraction, and retrieval architectures—and
+the production platforms that put that data to work.
 
 🌐 [Bio](https://pizzorno.scholars.harvard.edu/bio) • ✉️ [Email](mailto:pizzorno@fas.harvard.edu)
 
-## Skills & Interests  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=google-cloud&logoColor=white)  
-![Natural Language Processing](https://img.shields.io/badge/NLP-CC0000?logo=semanticweb&logoColor=white)  
-![AI](https://img.shields.io/badge/AI-0D47A1?logo=openai&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?logo=databricks&logoColor=white)  
+## Stack
+
+**Languages** Python | JavaScript/TypeScript | SQL | C | Shell </br>
+**ML/AI** PyTorch | scikit-learn | HuggingFace | spaCy | Stanza | LlamaIndex | sentence-transformers </br>
+**Data** Pandas | NumPy | Elasticsearch/OpenSearch | PostgreSQL | Neo4j | RDF/OWL/SPARQL </br>
+**Backend** Django | DRF | Celery | Docker | Terraform | AWS (EC2, S3, Lambda, RDS, ECS, OpenSearch) </br>
+**Other** OpenCV | Tesseract | OR-Tools | NetworkX | D3 | GeoPandas | QGIS </br>
